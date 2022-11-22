@@ -15,13 +15,22 @@ export default function App() {
             rel="noopener noreferrer"
           >
             Yana Fedchenko
-          </a>{" "} and is{" "}
+          </a>{" "}
+          and is{" "}
           <a
             href="https://github.com/YanaFedchenko/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
             open-sourse on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://app.netlify.com/teams/oceledec/overview"
+            target="_blank"
+            rel="noreferrer"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
